@@ -1,0 +1,38 @@
+<annotation>
+	<folder>IDCARD</folder>
+	<filename>samsung (24).jpg</filename>
+	<path>D:\Samples\지문마스킹\지문\IDCARD\samsung (24).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>998</width>
+		<height>636</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fingerprint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>40</ymin>
+			<xmax>961</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>addr_title</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>43</ymin>
+			<xmax>146</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+100_test (11).jpg,335,212,addr_title,19,13,50,199
+100_test (11).jpg,335,212,addr_title,218,11,328,126
+100_test (24).jpg,335,212,addr_title,15,12,49,197
+100_test (24).jpg,335,212,fingerprint,216,13,323,130
+100_test (27).jpg,335,212,fingerprint,13,79,120,199
+100_test (27).jpg,335,212,addr_title,288,14,321,199
+100_test (32).jpg,335,212,fingerprint,217,12,324,128
+100_test (32).jpg,335,212,addr_title,15,14,49,200
+100_test (35).jpg,335,212,fingerprint,14,81,119,199
+100_test (35).jpg,335,212,addr_title,287,13,321,199
+100_test (41).jpg,335,212,fingerprint,14,81,122,198
+100_test (41).jpg,335,212,addr_title,289,13,321,196
+finger001.jpg,1647,2352,fingerprint,476,99,709,347
+finger001.jpg,1647,2352,face,1316,115,1568,404
+finger001.jpg,1647,2352,addr_title,65,91,150,488
+finger002.jpg,1647,2322,fingerprint,1043,1536,1269,1765
+finger002.jpg,1647,2322,addr_title,637,1535,731,1901
+samsung (1).jpg,671,424,fingerprint,431,28,648,264
+samsung (1).jpg,671,424,addr_title,36,25,97,396
+samsung (10).jpg,1003,637,fingerprint,27,244,357,599
+samsung (10).jpg,1003,637,addr_title,859,45,949,602
+samsung (11).jpg,1006,637,fingerprint,654,36,985,385
+samsung (11).jpg,1006,637,addr_title,53,40,155,594
+samsung (16).jpg,998,636,fingerprint,646,39,964,388
+samsung (16).jpg,998,636,addr_title,49,43,143,596
+samsung (19).jpg,1000,635,fingerprint,41,244,354,595
+samsung (19).jpg,1000,635,addr_title,865,44,952,596
+samsung (27).jpg,1000,635,fingerprint,41,241,356,594
+samsung (27).jpg,1000,635,addr_title,860,43,957,598
+samsung (40).jpg,998,636,fingerprint,643,39,963,388
+samsung (40).jpg,998,636,addr_title,48,44,148,596
+samsung (43).jpg,1000,635,fingerprint,42,241,356,594
+samsung (43).jpg,1000,635,addr_title,860,45,955,595
+samsung (49).jpg,673,424,fingerprint,32,164,245,393
+samsung (49).jpg,673,424,addr_title,578,27,646,396
+ScanImage107.jpg,1003,637,fingerprint,657,40,978,377
+ScanImage107.jpg,1003,637,addr_title,54,32,154,584

@@ -1,0 +1,5 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+100_test (10).jpg,335,212,fingerprint,8,83,120,201
+100_test (10).jpg,335,212,addr_title,287,14,319,201
+samsung (24).jpg,998,636,fingerprint,646,40,961,394
+samsung (24).jpg,998,636,addr_title,50,43,146,598
